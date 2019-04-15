@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["yWemW"]); }
+
+__d("ChatTabSRXUtil",["CurrentUser","FantaFRXUtil","MercuryIDs","getPageIDFromThreadID"],(function(a,b,c,d,e,f){"use strict";a={isSRXEligible:function(a,c){return b("MercuryIDs").isCanonical(c)&&!b("getPageIDFromThreadID")(c)&&!b("CurrentUser").isWorkUser()&&b("FantaFRXUtil").isFRXEligible(a,c)}};e.exports=a}),null);

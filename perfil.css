@@ -1,0 +1,85 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: 'Alfa Slab One', cursive;
+}
+.fundo{
+	width: 1750px;
+	height: 850px;
+}
+.nav1{
+	position: absolute;
+	width: 450px;
+	height: 400px;
+	box-shadow: 5px 5px 5px 3px;
+	margin-left: 850px;
+	margin-top: 200px;
+}
+.eu2{
+	position: absolute;
+	width: 400px;
+	height: 400px;
+	margin-left:370px;
+	border-radius: 400px;
+	margin-top: 200px;
+}
+.git{
+	width: 40px;
+	height: 40px;
+}
+.titulo1{
+	position: absolute;
+	margin-left: 970px;
+	margin-top: 150px;
+}
+.titulo2{
+	margin-left: 150px;
+}
+.paragrafo{
+	font-family: 'Fugaz One', cursive;
+	color: white;
+	font-size: 21px;
+}
+.git{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-left: 390px;
+	margin-top: 650px;
+}
+.face{
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	margin-left: 445px;
+	margin-top: 650px;
+}
+.insta{
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	margin-left: 650px;
+	margin-top: 650px;
+}
+.work{
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	margin-left: 710px;
+	margin-top: 650px;
+}
+.vnw{
+	position: absolute;
+	width: 60px;
+	height: 60px;
+	margin-left: 545px;
+	border-radius: 45px;
+	margin-top: 650px;
+}
+.final{
+	color: blue;
+}
+
+
+
+
